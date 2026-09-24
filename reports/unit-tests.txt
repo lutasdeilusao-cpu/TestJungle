@@ -1,0 +1,9 @@
+
+ RUN  v5.0.1 C:/_Projects/TesteJungle/game-developer-challenge
+
+
+ Test Files  2 passed | 1 skipped (3)
+      Tests  22 passed | 1 skipped (23)
+   Start at  12:26:33
+   Duration  4.33s (tests 82%, import 12%, transform 5%)
+

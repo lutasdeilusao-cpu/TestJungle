@@ -14,3 +14,14 @@ dist/
 
 # Logs
 *.log
+
+# Tooling
+node_modules/.tmp
+*.tsbuildinfo
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/perf/results/tmp/
+.vercel
+.scratch/

@@ -1,0 +1,105 @@
+{
+  "environment": {
+    "date": "2026-09-24T15:15:40.386Z",
+    "cpu": "13th Gen Intel(R) Core(TM) i7-13700HX",
+    "cores": 24,
+    "ramGb": 16,
+    "os": "Windows_NT 10.0.26200",
+    "browser": "chromium 153.0.8010.12 (headless)",
+    "gpu": "ANGLE (Intel, Intel(R) UHD Graphics (0x00004688) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "viewport": {
+      "width": 1600,
+      "height": 900
+    },
+    "devicePixelRatio": 1,
+    "match": {
+      "sessionTime": 180,
+      "spawnInterval": 3,
+      "muted": true,
+      "overrides": {
+        "player": {
+          "maxHealth": 100000
+        }
+      },
+      "stress": false
+    }
+  },
+  "frameRun": {
+    "wallSeconds": 180,
+    "frames": 10798,
+    "durationMs": 179960,
+    "avgFps": 60,
+    "p50FrameMs": 16.7,
+    "p95FrameMs": 16.7,
+    "p99FrameMs": 16.8,
+    "maxFrameMs": 16.8,
+    "slowFrames": 0,
+    "maxShips": 5,
+    "maxProjectiles": 16,
+    "maxParticles": 156,
+    "avgShips": 2.3,
+    "avgProjectiles": 3.4,
+    "score": 50,
+    "spawned": {
+      "chaser": 33,
+      "shooter": 27
+    },
+    "endStatus": "ending"
+  },
+  "memory": [
+    {
+      "label": "baseline (menu, before any match)",
+      "usedHeapMb": 8.25,
+      "totalHeapMb": 9.04,
+      "domNodes": 297,
+      "jsEventListeners": 209,
+      "documents": 2,
+      "canvases": 0
+    },
+    {
+      "label": "after cycle 1",
+      "usedHeapMb": 8.55,
+      "totalHeapMb": 9.29,
+      "domNodes": 424,
+      "jsEventListeners": 214,
+      "documents": 3,
+      "canvases": 0
+    },
+    {
+      "label": "after cycle 2",
+      "usedHeapMb": 8.53,
+      "totalHeapMb": 9.29,
+      "domNodes": 424,
+      "jsEventListeners": 214,
+      "documents": 3,
+      "canvases": 0
+    },
+    {
+      "label": "after cycle 3",
+      "usedHeapMb": 8.64,
+      "totalHeapMb": 9.54,
+      "domNodes": 424,
+      "jsEventListeners": 214,
+      "documents": 3,
+      "canvases": 0
+    },
+    {
+      "label": "after cycle 4",
+      "usedHeapMb": 8.79,
+      "totalHeapMb": 9.54,
+      "domNodes": 424,
+      "jsEventListeners": 214,
+      "documents": 3,
+      "canvases": 0
+    },
+    {
+      "label": "after cycle 5",
+      "usedHeapMb": 8.84,
+      "totalHeapMb": 9.54,
+      "domNodes": 424,
+      "jsEventListeners": 214,
+      "documents": 3,
+      "canvases": 0
+    }
+  ]
+}
