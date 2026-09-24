@@ -4,7 +4,7 @@ A top-down 2D naval shooter built with **React, TypeScript (strict), PixiJS,
 TanStack Query, Axios, MSW and Playwright**. Sail between islands, sink
 Chasers and Shooters, and climb the ranking before the clock runs out.
 
-> Live demo: **https://&lt;your-deployment&gt;.vercel.app** (see [Deploy](#deploy))
+> Live demo: **https://test-jungle.vercel.app** · Repository: https://github.com/lutasdeilusao-cpu/TestJungle
 >
 > Challenge brief: [docs/CHALLENGE.md](docs/CHALLENGE.md) · Design notes: [ARCHITECTURE.md](ARCHITECTURE.md) ·
 > Performance: [docs/PERFORMANCE.md](docs/PERFORMANCE.md) · Assets and licenses: [docs/ASSETS.md](docs/ASSETS.md)
